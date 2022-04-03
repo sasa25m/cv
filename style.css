@@ -1,0 +1,21 @@
+h3{
+  color:#22A39F;
+  font-weight:normal;
+  font-family:Arial;
+}
+table{
+  font-family:Arial;
+  display: inline-block;
+  text-align: left;
+}
+td{
+  color:#434242;
+  font-size: 14px;
+  transition:all 0.3s ;
+}
+table:hover{background-color: #999;border:1px solid #22A39F;border-radius: 5px;}
+tr td:last-child{
+  text-align: left;}
+tr td:last-child:hover{
+  letter-spacing: 4px;
+}
